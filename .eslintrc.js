@@ -11,7 +11,6 @@ module.exports = {
   ],
   rules: {
     "@typescript-eslint/no-unused-vars": "off",
-    "unused-imports/no-unused-imports": "warn",
     "neverthrow/must-use-result": "error",
   },
 };
